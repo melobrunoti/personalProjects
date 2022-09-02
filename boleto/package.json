@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "business-days-js": "^2.1.2",
-    "moment": "^2.29.1"
-  }
-}
